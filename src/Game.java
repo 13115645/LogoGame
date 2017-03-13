@@ -28,10 +28,10 @@ import javax.swing.JProgressBar;
 /**
  * 
  * @author Yasiru Dahanayake 
- * 
+ * well well well 
  */
 public class Game {
-
+	
 	private JFrame frame;
 	private JTextField getName;
 	private String playerName;
