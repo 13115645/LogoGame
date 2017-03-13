@@ -105,7 +105,7 @@ public class Game {
 	 * reference a random image later on
 	 */
 	public void createrandom() {
-
+		//
 		for (int i = 1; i < 31; i++) {
 			list.add(new Integer(i));
 
